@@ -1,0 +1,20 @@
+
+- Good coding practices  
+
+- Good background and summary
+
+- Slide 3 and Slide 4: Inconsistent value for the number of individual
+ chocolate bars (1,700 ot 2,530).
+
+- Slide 9: bar chart is more appropriate than a density plot since it is an ordinal variable.
+ Also, what is the question you answered from the density plot?
+
+- slide 10:
+* a graph of the proportions vs. country might be more useful here 
+compared to the counts vs country.
+* They only focused on the highest rating. For example, the highest 
+rated company/bean origin location It would be a good idea if they also showed
+ some visualisation for the lowest rating to have a comprehensive idea of what is going on.
+
+
+- Slide 13: Limit the maximum value of the x-axis to 100 percent since the percentage cant go higher.
